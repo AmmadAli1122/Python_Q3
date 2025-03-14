@@ -1,6 +1,3 @@
-Here’s an **intro for your README file** that clearly explains your project, its purpose, and how to use it.  
-
----
 
 # 🌱 Growth Mindset Challenge – Streamlit Web App  
 
@@ -42,6 +39,4 @@ You can deploy this app on **Streamlit Cloud** or any web hosting platform that 
 ## **Contributing**  
 Feel free to contribute by adding new features, improving the UI, or optimizing the app.  
 
----
 
-Would you like to include **screenshots** or **a demo link** if you deploy it online?
