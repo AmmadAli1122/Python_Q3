@@ -70,17 +70,4 @@ streamlit run app.py
 **Score:** `4.5 / 5`  
 **Status:** ✅ Strong Password!
 
----
-
-## 📌 To-Do / Ideas
-
-- Add password history
-- Export generated passwords
-- Add dark/light theme toggle
-
-
-## 🛡️ Author & License
-
-Made with 💻 and ☕ for educational purposes.  
-Feel free to use and improve it! License: MIT
 
